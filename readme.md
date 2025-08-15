@@ -34,7 +34,8 @@ Each project demonstrates practical skills in **identity management, encryption,
 
 ---
 
-### 4️⃣ Secure Secrets with Secrets Manager *(Coming Soon)*  
+### 4️⃣ Secure Secrets with Secrets Manager
+**Document:** [`documents/legendary-aws-security-secretsmanager.md`](documents/legendary-aws-security-secretsmanager.md)  
 **Skills to be Demonstrated:**  
 - Securely storing and retrieving application secrets.  
 - Implementing secret rotation.  
