@@ -179,8 +179,6 @@ Once the merge conflict was resolved, I verified that the rebase was successful 
 
 This confirmed that my local branch and the GitHub branch were perfectly in sync after the rebase.
 
-![Image](http://learn.nextwork.org/elated_cyan_peaceful_duck/uploads/aws-security-secretsmanager_t5u6v7w8)
-
 ---
 
 ---
