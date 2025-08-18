@@ -44,7 +44,7 @@ Each project demonstrates practical skills in **identity management, encryption,
 ---
 
 ### 5️⃣ Build a Security Monitoring System
-**Document:** [`documents/legendary-aws-security-monitoring.md`](documents/legendary-aws-security-monitoring.md) 
+**Document:** [`documents/legendary-aws-security-monitoring.md`](documents/legendary-aws-security-monitoring.md)  
 **Skills to be Demonstrated:**  
 - Designing a security monitoring architecture in AWS.  
 - Automating event detection and alerts.  
